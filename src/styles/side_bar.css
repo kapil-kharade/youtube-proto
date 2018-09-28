@@ -1,0 +1,26 @@
+.sideBarcontainer {
+  min-height: 248px;
+  background: lightgrey;
+}
+
+.rowContainer {
+  margin-top: 5px;
+  padding: 8px;
+}
+
+.colorBlack {
+  color: black;
+}
+
+.icon {
+  margin-left: 19px;
+  color: red;
+}
+
+.alignLeft {
+  text-align: left;
+}
+
+.title {
+  margin-left: 28px;
+}
